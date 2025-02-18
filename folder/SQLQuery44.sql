@@ -26,3 +26,4 @@ add check (EID>5)
 
 insert into test_check values(3,'RR',9)
 insert into test_check values(6,'MI',99)
+insert into test_check values(7,'RR',44)
